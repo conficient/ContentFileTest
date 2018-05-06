@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentFileTestNetStd2", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentFileTestNetCore", "ContentFileTestNetCore\ContentFileTestNetCore.csproj", "{6F71F203-E757-43B8-A7B5-3C9881742F11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentFileTestFramework472", "ContentFileTestFramework472\ContentFileTestFramework472.csproj", "{084CFC64-E44B-41D7-8907-A467389D4C00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6F71F203-E757-43B8-A7B5-3C9881742F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F71F203-E757-43B8-A7B5-3C9881742F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F71F203-E757-43B8-A7B5-3C9881742F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084CFC64-E44B-41D7-8907-A467389D4C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084CFC64-E44B-41D7-8907-A467389D4C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084CFC64-E44B-41D7-8907-A467389D4C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084CFC64-E44B-41D7-8907-A467389D4C00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
