@@ -1,5 +1,5 @@
 # ContentFileTest
-Test the nuget package ContentFilesExample
+Test the nuget package [ContentFilesExample](https://www.nuget.org/packages/ContentFilesExample/)
 
 The repository https://github.com/NuGet/Samples contains an example Nuget package that implements the new `contentFiles` tags 
 and should import files and resources into a project. I built this simple solution to test this package.
